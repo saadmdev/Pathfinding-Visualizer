@@ -1,65 +1,63 @@
-Pathfinding-Visualizer
----
-
-````markdown
 # Pathfinding Visualizer
 
-An interactive pathfinding visualizer built with **React** and **Tailwind CSS**.
-This tool helps you visualize how pathfinding algorithms work step by step in a 2D grid.
+An interactive pathfinding visualizer built with **React** and **Tailwind CSS**.  
+This tool helps visualize how pathfinding algorithms work step by step in a 2D grid.
 
-### 🌐 Live Overview
+---
 
-https://destructorbawa.github.io/Pathfinding-Visualizer/
+### 🌐 Live Demo  
+👉 [View Live Project](https://destructorbawa.github.io/Pathfinding-Visualizer/)
 
-## Features
+---
 
-- Click and drag to draw **walls**
-- Supports multiple algorithms:
+## ✨ Features
+
+- 🧱 Click and drag to draw **walls**
+- ⚙️ Supports multiple algorithms:
   - 🔵 **BFS (Breadth-First Search)**
   - 🟣 **DFS (Depth-First Search)**
   - 🟡 **Dijkstra’s Algorithm**
   - 🟢 **A\* (A-Star) Algorithm**
-- Highlights:
-  - Start node (🟩), end node (🟥)
-  - Visited nodes (🔷) and shortest path (🟨)
-- Clear path or reset grid with a single click
-- Smooth animations
-- Clean dark gradient background with responsive design
+- 💡 Highlights:
+  - Start node (🟩), End node (🟥)
+  - Visited nodes (🔷), Shortest path (🟨)
+- 🔁 Clear path or reset grid in one click
+- ⚡ Smooth animations
+- 🌑 Dark gradient responsive design
 
+---
 
-
-## Technologies Used
+## 🛠 Technologies Used
 
 - React (Create React App)
 - Tailwind CSS
 - JavaScript (ES6+)
 
-## Getting Started
+---
 
-### 1. Clone the repository
+## 🚀 Getting Started
+
+### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/pathfinding-visualizer.git
+git clone https://github.com/destructorbawa/Pathfinding-Visualizer.git
 cd pathfinding-visualizer
-````
-
-### 2. Install dependencies
-
-```bash
+2. Install Dependencies
+bash
+Copy
+Edit
 npm install
-```
-
-### 3. Start the development server
-
-```bash
+3. Start Development Server
+bash
+Copy
+Edit
 npm start
-```
+Visit http://localhost:3000 in your browser.
 
-Open [http://localhost:3000](http://localhost:3000) in your browser.
-
-## Project Structure (Simplified)
-
-```
+📁 Project Structure
+pgsql
+Copy
+Edit
 ├── public/
 ├── src/
 │   ├── components/
@@ -75,17 +73,10 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 │   └── index.css
 ├── package.json
 └── README.md
-```
+📄 License
+This project is licensed under the MIT License.
 
-## License
+🙌 Acknowledgements
+Bootstrapped with Create React App
 
-This project is licensed under the [MIT License](./LICENSE).
-
-## Acknowledgements
-
-* Bootstrapped with [Create React App](https://create-react-app.dev/)
-* Inspired by visual algorithm tools like PathfindingVisualizer and CS animations
-
----
-
-
+Inspired by algorithm visualizers like PathfindingVisualizer and CS animations
