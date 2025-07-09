@@ -4,7 +4,8 @@ Pathfinding-Visualizer
 ````markdown
 # Pathfinding Visualizer
 
-An interactive pathfinding visualizer built with **React** and **Tailwind CSS**. This tool helps you visualize how pathfinding algorithms work step by step in a 2D grid.
+An interactive pathfinding visualizer built with **React** and **Tailwind CSS**.
+This tool helps you visualize how pathfinding algorithms work step by step in a 2D grid.
 
 ## Features
 
