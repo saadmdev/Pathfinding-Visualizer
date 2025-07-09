@@ -93,6 +93,4 @@ This project is licensed under the [MIT License](./LICENSE).
 * Bootstrapped with [Create React App](https://create-react-app.dev/)
 * Inspired by educational visualizations like PathfindingVisualizer and CS animations
 
-````
-
 ---
