@@ -103,7 +103,7 @@ function App() {
         </div>
 
         {/* Legend */}
-        <div className="flex justify-center gap-4 flex-wrap mb-6 text-sm">
+        <div className="flex justify-center gap-4 flex-wrap mb-2 text-sm">
           <div className="flex items-center gap-2">
             <div className="w-5 h-5 bg-green-500 border border-gray-600 rounded-sm" />
             <span>Start</span>
@@ -125,6 +125,11 @@ function App() {
             <span>Path</span>
           </div>
         </div>
+
+        {/* Instructions */}
+        <p className="text-sm text-gray-300 mb-6">
+          Click and drag on the grid to draw walls. Then press an algorithm button to visualize the path.
+        </p>
 
         <Grid ref={gridRef} />
       </div>
