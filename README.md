@@ -42,7 +42,7 @@ This tool allows users to understand how pathfinding algorithms operate by visua
 ```bash
 git clone https://github.com/destructorbawa/Pathfinding-Visualizer.git
 cd pathfinding-visualizer
-
+```
 
 ### 2. Install Dependencies
 
