@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # Pathfinding Visualizer
 
 An interactive pathfinding visualizer built with **React** and **Tailwind CSS**.  
@@ -10,7 +6,7 @@ This tool allows users to understand how pathfinding algorithms operate by visua
 ---
 
 ### Live Demo  
-[View Project Live](https://destructorbawa.github.io/Pathfinding-Visualizer/)
+👉 [View Project Live](https://destructorbawa.github.io/Pathfinding-Visualizer/)
 
 ---
 
@@ -46,7 +42,7 @@ This tool allows users to understand how pathfinding algorithms operate by visua
 ```bash
 git clone https://github.com/destructorbawa/Pathfinding-Visualizer.git
 cd pathfinding-visualizer
-````
+
 
 ### 2. Install Dependencies
 
