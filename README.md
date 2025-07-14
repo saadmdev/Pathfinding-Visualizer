@@ -6,7 +6,7 @@ This tool allows users to understand how pathfinding algorithms operate by visua
 ---
 
 ### Live Demo  
-👉 [View Project Live](https://saadmdev.github.io/Pathfinding-Visualizer/)
+[![View Live](https://img.shields.io/badge/View%20Live-%231DA1F2?style=for-the-badge&logo=github&logoColor=white)](https://saadmdev.github.io/Pathfinding-Visualizer/)
 
 ---
 
